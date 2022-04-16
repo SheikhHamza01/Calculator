@@ -1,0 +1,36 @@
+body
+{
+    margin: 0%;
+    background-size: 100% 100%;
+    background-image: url("/calculatorBackground.jpg")
+}
+
+#calculator-cover
+{
+    background-color: white;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 30vh;
+}
+
+#inputOutput
+{
+    height: 50px;
+    padding: 4px 8px;
+    border: 2px solid darkgray;
+}
+
+table
+{
+    background-color: darkgrey;
+}
+
+td
+{
+    background-color:bisque;
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    font-weight: bolder;
+    cursor: default;
+}
